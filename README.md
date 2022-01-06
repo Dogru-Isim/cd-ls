@@ -1,5 +1,5 @@
 # cd-ls
-For those who are sick of typing ls after cd or something.
+For those who are bored of typing ls after cd or something.
 
 You know this urge to type ls after going in a new directory, I don't like it so I coded this. Here is the --help menu.
 
